@@ -1,0 +1,15 @@
+D:\DEV\C#\VisualCode\bin\Debug\net7.0\VisualCode.exe
+D:\DEV\C#\VisualCode\bin\Debug\net7.0\VisualCode.deps.json
+D:\DEV\C#\VisualCode\bin\Debug\net7.0\VisualCode.runtimeconfig.json
+D:\DEV\C#\VisualCode\bin\Debug\net7.0\VisualCode.dll
+D:\DEV\C#\VisualCode\bin\Debug\net7.0\VisualCode.pdb
+D:\DEV\C#\VisualCode\obj\Debug\net7.0\VisualCode.csproj.AssemblyReference.cache
+D:\DEV\C#\VisualCode\obj\Debug\net7.0\VisualCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\C#\VisualCode\obj\Debug\net7.0\VisualCode.AssemblyInfoInputs.cache
+D:\DEV\C#\VisualCode\obj\Debug\net7.0\VisualCode.AssemblyInfo.cs
+D:\DEV\C#\VisualCode\obj\Debug\net7.0\VisualCode.csproj.CoreCompileInputs.cache
+D:\DEV\C#\VisualCode\obj\Debug\net7.0\VisualCode.dll
+D:\DEV\C#\VisualCode\obj\Debug\net7.0\refint\VisualCode.dll
+D:\DEV\C#\VisualCode\obj\Debug\net7.0\VisualCode.pdb
+D:\DEV\C#\VisualCode\obj\Debug\net7.0\VisualCode.genruntimeconfig.cache
+D:\DEV\C#\VisualCode\obj\Debug\net7.0\ref\VisualCode.dll
